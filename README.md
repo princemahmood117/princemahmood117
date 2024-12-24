@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=princemahmood117&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
