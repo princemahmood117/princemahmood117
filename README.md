@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hello, I am Iftekhar Mahmood<br>🖋  Junior Web Developer | MERN <br><br>
+🙋‍♂️ I'm a passionate developer with an interest in building impactful projects and exploring the world of technology. My work spans web development based on MERN. <br/> I'm always eager to learn, collaborate, and contribute to open-source projects. <br/> Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
