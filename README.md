@@ -1,5 +1,6 @@
 # 💫 About Me:
 🙋‍♂️ I'm a passionate web developer with an interest in building impactful projects and exploring the world of technology. My work spans web development based on MERN. <br/> I'm always eager to learn, collaborate, and contribute to open-source projects. <br/> Let's connect and create something amazing together!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm +Frontend+Developer;MERN+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
@@ -51,6 +52,6 @@
 [![](https://visitcount.itsvg.in/api?id=princemahmood117&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Iftekhar+Mahmood;Frontend+Developer;MERN+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg) 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
